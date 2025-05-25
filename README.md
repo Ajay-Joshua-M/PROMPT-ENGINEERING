@@ -178,6 +178,8 @@ One of the most significant developments is how humans and AI are now co-creator
 • Developers use tools like GitHub Copilot to generate and debug code.
 • Educators use it to develop personalized content and study materials.
 
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/062aac20cb63f3ad271c2f30482f1666c4ff917d/images/image.png)
+
 # 📉 Risks and Ethical Concerns
 As with all powerful technologies, Generative AI presents critical challenges:
 • Misinformation: Deepfakes and AI-generated articles can be used to mislead.
