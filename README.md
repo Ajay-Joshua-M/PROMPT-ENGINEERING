@@ -43,7 +43,7 @@ VAEs are a type of generative model that excels in learning efficient data repre
 • Decoder: Reconstructs data from the latent space, introducing controlled randomness.
 The "variational" part refers to the model’s use of probability distributions — it doesn't map input to a single point in the latent space but to a distribution, allowing for variation and creativity in the output. VAEs are often used in anomaly detection, image generation, and latent space exploration.
 
-![image alt]()
+![image alt](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/bd045583f21691e2975484aa57de81c95e70c970/images/image.png)
 
 # 3. Transformers: The Modern Backbone
 Transformers have become the dominant architecture for natural language and multimodal generative tasks. Introduced in the 2017 paper “Attention is All You Need”, transformers revolutionized AI by replacing traditional sequence models like RNNs and LSTMs.
