@@ -140,6 +140,9 @@ As models scale, their emergent abilities improve — meaning they can solve tas
 
 # 🔹 Transformer Architecture Enables Scaling
 The Transformer architecture, due to its parallelizable self-attention mechanism, made this scaling possible. Unlike RNNs, transformers don’t process inputs sequentially, so they can be trained faster and on much larger datasets. As the number of attention heads, layers, and feedforward units increases, so does the capacity to learn deeper context and nuanced meaning.
+
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/462030dce8781989155da27fdee2f356abf9d499/images/image.png)
+
 # 🔹 Challenges of Scaling
 However, scaling comes with trade-offs:
 • Compute cost: Training LLMs requires millions of dollars in cloud compute and power.
