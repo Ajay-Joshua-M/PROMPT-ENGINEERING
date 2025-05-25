@@ -26,4 +26,5 @@ GANs, introduced by Ian Goodfellow in 2014, are perhaps the most well-known arch
 • Discriminator: Tries to distinguish between real and fake data.
 These two models are trained together. The generator improves its output to fool the discriminator, while the discriminator gets better at detecting fakes. Over time, the generator produces content that is increasingly indistinguishable from real data. GANs are widely used for image synthesis, style transfer, super-resolution, and even deepfakes.
 
+![image alt](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/ccc4020be6b4a51e4dafc120938e5c8657577a18/image.png)
 
