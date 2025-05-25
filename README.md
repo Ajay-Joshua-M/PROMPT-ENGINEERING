@@ -91,6 +91,9 @@ One of the most prominent uses of generative AI is in art, design, and media:
 • AI music generators like Jukebox from OpenAI or Amper can compose songs with lyrics and melodies.
 • In film and animation, tools like Runway enable quick scene generation or special effects editing.
 This capability to synthesize new media at scale is revolutionizing entertainment and design — allowing individuals to create professional-grade content without needing years of experience.
+
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/cada308e14b7475474d0484617f78cf593f5ecf4/images/image.png)
+
 # 🔹 Language Generation
 Language is where generative AI has made the most impact. Transformer-based Large Language Models (LLMs) like GPT-4, Claude, or LLaMA can:
 • Write essays, poems, reports, and emails.
