@@ -82,6 +82,9 @@ The choice of architecture significantly affects the model’s performance, scal
 
 # Generative AI Applications:
 Generative AI has moved far beyond academic labs and now powers real-world applications across industries. From creative content to enterprise productivity, and even healthcare and defense, generative models are reshaping what machines can do — and how humans interact with them.
+
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/a2a4aff227e146e42f4026e831d5ec68766f30f8/images/image.png)
+
 # 🔹 Creative Applications
 One of the most prominent uses of generative AI is in art, design, and media:
 • Text-to-image tools like DALL·E or Midjourney can produce stunning, unique images from a few words of description.
