@@ -159,7 +159,7 @@ Recent research has shifted focus from pure scale to efficient architectures:
 In short, while scaling has driven much of generative AI’s success, the future lies in making scaled models safer, faster, and more sustainable.
 Conclusion: The Evolution and Significance of Generative AI
 
-
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/2ff2b4a235328b702079f29d8e644bccf1465101/images/image.png)
 
 # Conclusion: The Evolution and Significance of Generative AI
 # 🌐 A Technological Revolution
