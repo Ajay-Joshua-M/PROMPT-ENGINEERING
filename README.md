@@ -71,6 +71,9 @@ While transformers dominate the field today, earlier architectures like RNNs and
 • Recurrent Neural Networks (RNNs) were used for sequence generation, such as language or time series.
 • Convolutional Neural Networks (CNNs) were adapted for image generation, especially in GANs.
 Newer innovations also include Diffusion Models, which generate images by gradually denoising a random pattern of pixels using transformer-guided context.
+
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/b4872fb3092677238b87a221b7f9e99b81013808/images/image.png)
+
 # 🔹 Why Architecture Matters
 The choice of architecture significantly affects the model’s performance, scalability, and output quality. Transformers, with their parallel processing and massive scaling ability, make today’s LLMs and image generators fast, accurate, and versatile. Their ability to scale with data and compute makes them the gold standard for modern AI.
 Generative AI Applications:
