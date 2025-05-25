@@ -109,6 +109,9 @@ Generative AI is also transforming scientific discovery and engineering:
 • Drug discovery: Tools like AlphaFold or Insilico Medicine use generative AI to model proteins or generate new molecular compounds.
 • 3D modeling: AI can generate CAD models or simulate environments, helping engineers and architects save time.
 • Material science: Generative models help explore novel materials with specific properties, accelerating innovation.
+
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/96b0704fd7ecff29c27ef5b2c83407028bc83304/images/image.png)
+
 # 🔹 Business & Productivity Tools
 In business, generative AI automates:
 • Customer service via chatbots.
