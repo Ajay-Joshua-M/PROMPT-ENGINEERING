@@ -77,7 +77,10 @@ Newer innovations also include Diffusion Models, which generate images by gradua
 
 # 🔹 Why Architecture Matters
 The choice of architecture significantly affects the model’s performance, scalability, and output quality. Transformers, with their parallel processing and massive scaling ability, make today’s LLMs and image generators fast, accurate, and versatile. Their ability to scale with data and compute makes them the gold standard for modern AI.
-Generative AI Applications:
+
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/9b76b0e32b79da68f134e5b91677b359d4955731/images/image.png)
+
+# Generative AI Applications:
 Generative AI has moved far beyond academic labs and now powers real-world applications across industries. From creative content to enterprise productivity, and even healthcare and defense, generative models are reshaping what machines can do — and how humans interact with them.
 # 🔹 Creative Applications
 One of the most prominent uses of generative AI is in art, design, and media:
