@@ -135,6 +135,9 @@ This empirical observation led to a "race to scale" in which models grew exponen
 • GPT-3 had 175B.
 • GPT-4's size is rumored to exceed 1 trillion.
 As models scale, their emergent abilities improve — meaning they can solve tasks they weren’t explicitly trained for, like composing poetry, reasoning with logic, or coding.
+
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/9affb95d4de6e8a30a74842e355250d4ce70cad5/images/image.png)
+
 # 🔹 Transformer Architecture Enables Scaling
 The Transformer architecture, due to its parallelizable self-attention mechanism, made this scaling possible. Unlike RNNs, transformers don’t process inputs sequentially, so they can be trained faster and on much larger datasets. As the number of attention heads, layers, and feedforward units increases, so does the capacity to learn deeper context and nuanced meaning.
 # 🔹 Challenges of Scaling
