@@ -198,6 +198,8 @@ The future of Generative AI lies in making it more ethical, accessible, and effi
 • Open-source models and community-driven innovation (e.g., LLaMA, Mistral, BLOOM).
 With continued advancements in compute efficiency, language understanding, and user interaction, we are heading toward an era where Generative AI will be embedded seamlessly into daily life — aiding creativity, solving problems, and amplifying productivity.
 
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/394ff5ea4c55792a11c0ab964492af7fb2cc799c/images/image.png)
+
 # ✅ Final Thoughts
 Generative AI has matured from theoretical experiments into tools that augment human potential. As students, researchers, developers, and users, we are part of a historic moment — where machines no longer just calculate but communicate and create. The responsibility is ours to ensure this power is guided by ethics, inclusivity, and purpose.
 
