@@ -188,6 +188,8 @@ As with all powerful technologies, Generative AI presents critical challenges:
 • Ownership: Who owns the content created by AI — the user, the developer, or the AI?
 These concerns must be actively addressed by researchers, lawmakers, and communities through AI alignment, transparency, and ethical frameworks.
 
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/f1bead7fa55538041e42dfc06bd6acfedd15d231/images/image.png)
+
 # 📈 The Road Ahead
 The future of Generative AI lies in making it more ethical, accessible, and efficient:
 • Smaller yet powerful models with optimized inference.
