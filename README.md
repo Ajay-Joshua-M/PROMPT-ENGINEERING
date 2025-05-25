@@ -149,6 +149,9 @@ However, scaling comes with trade-offs:
 • Carbon footprint: There are growing concerns about energy usage and environmental impact.
 • Bias amplification: Larger models can also learn and reproduce biases from their massive training corpora.
 • Hallucinations: Bigger models still make up facts, requiring research in grounding and fact-checking.
+
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/3c92eb9c3f9630bc99709e72ac49ab9a4dc86fee/images/image.png)
+
 # 🔹From Scaling to Efficiency
 Recent research has shifted focus from pure scale to efficient architectures:
 • Sparse models (like Mixture of Experts) only activate a part of the network for each task.
