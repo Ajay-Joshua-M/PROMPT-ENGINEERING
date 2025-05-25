@@ -101,6 +101,9 @@ Language is where generative AI has made the most impact. Transformer-based Larg
 • Generate code (via Codex or GitHub Copilot).
 • Summarize and answer questions based on documents.
 These models use Transformer architectures and attention mechanisms to handle complex tasks with contextual depth. This makes them ideal for chatbots, virtual assistants, and automated content creation tools.
+
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/748d91ea409c111c7b3b7007ae7d996b0edf60b2/images/image.png)
+
 # 🔹 Scientific and Industrial Use Cases
 Generative AI is also transforming scientific discovery and engineering:
 • Drug discovery: Tools like AlphaFold or Insilico Medicine use generative AI to model proteins or generate new molecular compounds.
