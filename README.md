@@ -20,6 +20,11 @@ Generative AI is already being used in creative industries, healthcare, finance,
 Networks (GANs), Variational Autoencoders (VAEs), and the more recent but revolutionary Transformers. Each architecture has its strengths and unique ways of learning and generating data. Together, they form the technical foundation for today’s most advanced generative models.
 # 🔹 What Makes Generative AI Unique?
 At the heart of Generative AI lies the concept of learning data distributions. These models are trained on vast datasets and learn the underlying statistical patterns to generate outputs that resemble real-world data. This goes beyond basic automation: the AI learns creativity through probability. For example, a generative text model doesn’t just copy text from its training data — it predicts the next most likely word or sentence based on the context, effectively writing new text.
+
+
+
+
+
 # 🔹Key Techniques in Generative AI
 The most common generative techniques include Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and more recently, Transformers.
 
@@ -44,6 +49,10 @@ The "variational" part refers to the model’s use of probability distributions 
 Transformers have become the dominant architecture for natural language and multimodal generative tasks. Introduced in the 2017 paper “Attention is All You Need”, transformers revolutionized AI by replacing traditional sequence models like RNNs and LSTMs.
 At their core, transformers rely on self-attention mechanisms to weigh the importance of each word (or token) in a sequence relative to others. This enables them to model long-range dependencies and generate fluent, coherent output — crucial for tasks like text generation.
 Modern generative models like GPT (Generative Pre-trained Transformer), DALL·E, BERT, Stable Diffusion, and CodeGen are all built on transformer architecture. Transformers are also scalable — adding more layers and parameters results in better performance when trained on large datasets.
+
+![image alt](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/f25b40f54aafcddfd430f6514553f1c5e2bbfba0/images/image.png)
+![image alt](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/450c993db17fdac0db4a34e7ad3b79036b3fb2fd/image.png)
+
 # 🔹 Why It Matters
 Generative AI is reshaping how we create and interact with content. It enables scalable creativity, hyper-personalized services, and even scientific discovery — such as generating molecular structures in drug research. But its power also comes with responsibility: ensuring the content is ethical, fair, and free of bias is a major concern in this domain.
 Generative AI Architectures:
