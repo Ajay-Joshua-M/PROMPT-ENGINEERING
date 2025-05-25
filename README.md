@@ -7,6 +7,9 @@ Generative Artificial Intelligence (Generative AI) refers to a powerful subset o
 # 🔹Core Principle: Learning from Data Distributions
 At the heart of generative AI lies the concept of learning data distributions. Traditional AI models are usually discriminative — they focus on understanding the boundary between different types of data, like determining whether an image is of a cat or a dog. In contrast, generative models are probabilistic in nature, meaning they learn the underlying structure or distribution of data, and then sample from it to generate new data. This ability to generalize from training data to create novel outputs is what makes generative AI so powerful.
 
+![image alt](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/7dae9a6d31490260b65b759780a891acc0d3945a/images/image.png)
+
+
 # ⚙️ Key Technologies Behind Generative AI
 Several foundational model architectures power generative AI:
 1. Generative Adversarial Networks (GANs): GANs consist of two neural networks — a generator and a discriminator — in a competitive setup. The generator tries to create realistic data, while the discriminator tries to detect fake data. Through this adversarial process, the generator improves over time.
