@@ -52,6 +52,8 @@ Modern generative models like GPT (Generative Pre-trained Transformer), DALL·E,
 
 ![image alt](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/f25b40f54aafcddfd430f6514553f1c5e2bbfba0/images/image.png)
 ![image alt](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/450c993db17fdac0db4a34e7ad3b79036b3fb2fd/image.png)
+![image](https://github.com/user-attachments/assets/34a6befc-0c1a-47ce-b426-ef8692e6bcfb)
+
 
 # 🔹 Why It Matters
 Generative AI is reshaping how we create and interact with content. It enables scalable creativity, hyper-personalized services, and even scientific discovery — such as generating molecular structures in drug research. But its power also comes with responsibility: ensuring the content is ethical, fair, and free of bias is a major concern in this domain.
