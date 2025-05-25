@@ -63,6 +63,9 @@ The backbone of modern generative AI lies in its architectures — the internal 
 Introduced in the 2017 paper “Attention Is All You Need” by Vaswani et al., transformers moved away from traditional sequence models like RNNs and
 LSTMs. Instead of processing input step-by-step, transformers use a concept called self-attention, which allows the model to consider all words (or tokens) in a sequence at once. This enables it to capture long-range dependencies and understand complex relationships in data.
 A transformer is made up of encoder and decoder blocks, each consisting of layers of multi-head attention and feedforward networks, wrapped in residual connections and layer normalization. In language models like GPT, only the decoder is used, but in models like BERT, only the encoder is employed.
+
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/945d4287f38ca25d154303b3fbaa4b2aadebe290/images/image.png)
+
 # 🔹 Other Generative Architectures
 While transformers dominate the field today, earlier architectures like RNNs and CNNs played crucial roles in generative tasks:
 • Recurrent Neural Networks (RNNs) were used for sequence generation, such as language or time series.
