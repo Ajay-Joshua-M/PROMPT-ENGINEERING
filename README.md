@@ -23,11 +23,6 @@ Generative AI is already being used in creative industries, healthcare, finance,
 Networks (GANs), Variational Autoencoders (VAEs), and the more recent but revolutionary Transformers. Each architecture has its strengths and unique ways of learning and generating data. Together, they form the technical foundation for today’s most advanced generative models.
 # 🔹 What Makes Generative AI Unique?
 At the heart of Generative AI lies the concept of learning data distributions. These models are trained on vast datasets and learn the underlying statistical patterns to generate outputs that resemble real-world data. This goes beyond basic automation: the AI learns creativity through probability. For example, a generative text model doesn’t just copy text from its training data — it predicts the next most likely word or sentence based on the context, effectively writing new text.
-
-
-
-
-
 # 🔹Key Techniques in Generative AI
 The most common generative techniques include Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and more recently, Transformers.
 
@@ -47,6 +42,8 @@ VAEs are a type of generative model that excels in learning efficient data repre
 • Encoder: Compresses the input into a smaller latent space representation.
 • Decoder: Reconstructs data from the latent space, introducing controlled randomness.
 The "variational" part refers to the model’s use of probability distributions — it doesn't map input to a single point in the latent space but to a distribution, allowing for variation and creativity in the output. VAEs are often used in anomaly detection, image generation, and latent space exploration.
+
+![image alt]()
 
 # 3. Transformers: The Modern Backbone
 Transformers have become the dominant architecture for natural language and multimodal generative tasks. Introduced in the 2017 paper “Attention is All You Need”, transformers revolutionized AI by replacing traditional sequence models like RNNs and LSTMs.
