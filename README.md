@@ -122,6 +122,9 @@ In business, generative AI automates:
 
 # Impact of Scaling in Large Language Models (LLMs)
 Scaling is one of the most critical factors behind the power and progress of today’s Large Language Models (LLMs) like GPT-4, PaLM, Claude, and LLaMA. In generative AI, "scaling" refers to increasing the size of a model — in terms of parameters, training data, and compute resources — to improve performance. But this isn’t just about making models bigger; it’s about making them smarter, more generalizable, and capable of solving more complex tasks.
+
+![image](https://github.com/Ajay-Joshua-M/PROMPT-ENGINEERING/blob/2df045dab4928b5a374856b5fc38ecb8e1a1a9a4/images/image.png)
+
 # 🔹 The Scaling Laws of LLMs
 In 2020, researchers from OpenAI introduced scaling laws, which demonstrated that LLMs improve predictably as you increase:
 • Number of model parameters (e.g., billions to trillions)
