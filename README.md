@@ -1,4 +1,5 @@
 # EXPERIMENT – 1: Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+REGISTER NUMBER: 212222080004
 
 # Aim: 
 To systematically analyze the technical foundations, operational mechanisms, applications, and challenges of generative AI and LLMs through a structured report format.
